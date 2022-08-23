@@ -1,4 +1,5 @@
-# Flight-delay-prediction-using-machine-learning-Predicting flight delay can help passengers and other stakeholders in great a way to better utilize their time or make different plans. Here a Kaggle dataset is used for such flight delay prediction (https://www.kaggle.com/divyansh22/flight-delay-prediction). The data is month of January from the Bureau of Transportation Statistics, Govt. of the USA. This dataset contains all the flights in the month of January 2019 and January 2020.
+# Flight-delay-prediction-using-machine-learning-
+Predicting flight delay can help passengers and other stakeholders in great a way to better utilize their time or make different plans. Here a Kaggle dataset is used for such flight delay prediction (https://www.kaggle.com/divyansh22/flight-delay-prediction). The data is month of January from the Bureau of Transportation Statistics, Govt. of the USA. This dataset contains all the flights in the month of January 2019 and January 2020.
 
 As part of this project the following tasks are performed:
 
